@@ -22,9 +22,9 @@ The first step is ensure Node.js is installed on your machine. Then install/upda
 
 Go to the root of the project folder and enter the following command/s in the terminal to run LIRI Bot:
 
-,,,
+```
 npm run liri OR node liri
-,,,
+```
 
 ![Image - Prompts](./assets/screenshots/step2_choose.png)
 
