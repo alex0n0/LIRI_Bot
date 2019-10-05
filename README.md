@@ -47,5 +47,5 @@ Deployed version does not exist. You will need to clone this repo and run (liri.
 
 ### Technologies Used
 
-JavaScrpt. Node.js and Node Modules (axiom, node-spotify-api, inquirer, fs)
+JavaScrpt. Node.js and Node Modules (axios, node-spotify-api, inquirer, fs)
 
