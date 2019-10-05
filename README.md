@@ -26,7 +26,7 @@ Go to the root of the project folder and enter the following command/s in the te
 npm run liri OR node liri
 ,,,
 
-![Image - Prompts](./assets/screenshots/step1_choose.png)
+![Image - Prompts](./assets/screenshots/step2_choose.png)
 
 Follow the prompts that appear.
 
@@ -36,7 +36,7 @@ NOTE: Data validation prevents submission of empty inputs. You can enter [spaces
 
 Results will be displayed in the terminal and also appended to log.txt which will be generated if it does not exist.
 
-![Image - Results](./assets/screenshots/step4_results.png)
+![Image - Results](./assets/screenshots/step4_result.png)
 
 
 ## Deployed Version
