@@ -1,0 +1,6 @@
+# API keys
+
+SPOTIFY_ID=your-spotify-id
+SPOTIFY_SECRET=your-spotify-secret
+OMDB_KEY=your-omdb-key
+BANDS_IN_TOWN_KEY=your-bands-in-town-key

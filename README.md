@@ -6,7 +6,7 @@ The purpose of this exercise was to practice recursion, become familiar with nod
 
 
 
-## high level overview of app organisation
+## Project Structure
 
 The main script (liri.js) exists in the root of the project.
 Do not delete (assets > random.txt)
@@ -14,47 +14,38 @@ Do not delete (assets > random.txt)
 
 
 
-
 ## Instructions
 
 **Screenshots on user inputs are provided in (assets) folder**
 
-add your keys
+The first step is ensure Node.js is installed on your machine. Then install/update node modules and create a .env file where you are to add your API keys.
 
-start to finish instrctions on how to run the app
-Ensure node.js is installed on your device.
+Go to the root of the project folder and enter the following command/s in the terminal to run LIRI Bot:
 
-Then go to the root of the project folder and enter the following command/s in the terminal to run LIRI Bot:
 ,,,
 npm run liri OR node liri
 ,,,
 
-![Image of Step 1](./assets/screenshots/step1_run.png)
+![Image - Prompts](./assets/screenshots/step1_choose.png)
 
-Follow the prompts to
+Follow the prompts that appear.
 
-NOTE: Data validation prevents submission of empty inputs. You can enter [spaces]
-    follow prompts
+NOTE: Data validation prevents submission of empty inputs. You can enter [spaces] to test out fallback defaults.
 
-screenshots, gifs or videos of functioning app
+![Image - Testing defaults](./assets/screenshots/step3_input_alt.png)
 
+Results will be displayed in the terminal and also appended to log.txt which will be generated if it does not exist.
 
-
+![Image - Results](./assets/screenshots/step4_results.png)
 
 
 ## Deployed Version
 
-Deployed version does not exist. You will need to clone this repo and 
+Deployed version does not exist. You will need to clone this repo and run (liri.js) using node.js
 
 
 
 ### Technologies Used
 
-
-node js
-
-axiom
-node-spotify-api
-inquirer
-fs
+JavaScrpt. Node.js and Node Modules (axiom, node-spotify-api, inquirer, fs)
 
