@@ -1,0 +1,21 @@
+{
+  "name": "liri_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "liri.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "liri": "node ./liri.js",
+    "async": "node ./asynctext.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "dotenv": "^8.1.0",
+    "filesystem": "^1.0.1",
+    "inquirer": "^7.0.0",
+    "node-spotify-api": "^1.1.1"
+  }
+}
