@@ -1,0 +1,136 @@
+>>>>>>>>>> concert-this [ed sheeran] >>>>>>>>>> run @ Mon, 07 Oct 2019 21:51:34 GMT
+[ok] BandsInTownAPI: [ed sheeran] currently does not have any concerts
+
+
+>>>>>>>>>> spotify-this-song [here comes the sun] >>>>>>>>>> run @ Mon, 07 Oct 2019 21:51:35 GMT
+[ok] (max 5) [
+  {
+    "artists": "The Beatles",
+    "album_url": "https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN",
+    "album_name": "Abbey Road (Remastered)",
+    "song_name": "Here Comes The Sun - Remastered 2009"
+  },
+  {
+    "artists": "Neneh Yacobi",
+    "album_url": "https://open.spotify.com/album/6k478QyihfJzG9tJwCouh9",
+    "album_name": "Now And Then",
+    "song_name": "Here Comes The Sun"
+  },
+  {
+    "artists": "The Beatles",
+    "album_url": "https://open.spotify.com/album/5iT3F2EhjVQVrO4PKhsP8c",
+    "album_name": "Abbey Road (Super Deluxe Edition)",
+    "song_name": "Here Comes The Sun - 2019 Mix"
+  },
+  {
+    "artists": "Richie Havens",
+    "album_url": "https://open.spotify.com/album/5W2hT3ooeITFHAGaLap3v2",
+    "album_name": "Live At The Cellar Door and at the Santa Monica Civic Auditorium",
+    "song_name": "Here Comes The Sun"
+  },
+  {
+    "artists": "Springs Of Sleep",
+    "album_url": "https://open.spotify.com/album/7B8WRHRViaSmlpIXYCCZUh",
+    "album_name": "Springs Of Sleep",
+    "song_name": "Here comes the sun"
+  }
+]
+
+
+>>>>>>>>>> movie-this [john wick] >>>>>>>>>> run @ Mon, 07 Oct 2019 21:51:36 GMT
+[ok] {
+  "title": "John Wick",
+  "year": "2014",
+  "rating_imdb": "7.4",
+  "rating_rottentomatoes": "87%",
+  "production_country": "USA",
+  "language": "English, Russian, Hungarian",
+  "plot": "An ex-hit-man comes out of retirement to track down the gangsters that killed his dog and took everything from him.",
+  "actors": "Keanu Reeves, Michael Nyqvist, Alfie Allen, Willem Dafoe"
+}
+
+
+>>>>>>>>>> spotify-this-song [stairway to heaven] >>>>>>>>>> run @ Mon, 07 Oct 2019 21:51:37 GMT
+[ok] (max 5) [
+  {
+    "artists": "Led Zeppelin",
+    "album_url": "https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK",
+    "album_name": "Led Zeppelin IV (Deluxe Edition)",
+    "song_name": "Stairway to Heaven - Remaster"
+  },
+  {
+    "artists": "Led Zeppelin",
+    "album_url": "https://open.spotify.com/album/1Ugdi2OTxKopVVqsprp5pb",
+    "album_name": "Led Zeppelin IV",
+    "song_name": "Stairway to Heaven - 1990 Remaster"
+  },
+  {
+    "artists": "Mastodon",
+    "album_url": "https://open.spotify.com/album/1fifpfPsjplmA61cZcxN1e",
+    "album_name": "Stairway to Nick John",
+    "song_name": "Stairway to Heaven"
+  },
+  {
+    "artists": "Led Zeppelin",
+    "album_url": "https://open.spotify.com/album/5EyIDBAqhnlkAHqvPRwdbX",
+    "album_name": "Led Zeppelin IV (Remaster)",
+    "song_name": "Stairway to Heaven - 2012 Remaster"
+  },
+  {
+    "artists": "Led Zeppelin",
+    "album_url": "https://open.spotify.com/album/4wExFfncaUIqSgoxnqa3Eh",
+    "album_name": "Mothership (Remastered)",
+    "song_name": "Stairway to Heaven - 2007 Remaster"
+  }
+]
+
+
+>>>>>>>>>> movie-this [avengers endgame] >>>>>>>>>> run @ Mon, 07 Oct 2019 21:51:37 GMT
+[ok] {
+  "title": "Avengers: Endgame",
+  "year": "2019",
+  "rating_imdb": "8.6",
+  "rating_rottentomatoes": "94%",
+  "production_country": "USA, UK, Canada",
+  "language": "English, Japanese, Xhosa",
+  "plot": "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe.",
+  "actors": "Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth"
+}
+
+
+>>>>>>>>>> concert-this [metallica] >>>>>>>>>> run @ Mon, 07 Oct 2019 21:51:38 GMT
+[ok] (max 5) [
+  {
+    "venue_name": "Biosalongen Folkets Hus",
+    "venue_location": "Haparanda, Sweden",
+    "date": "10/10/2019 (mm/dd/yyyy)"
+  },
+  {
+    "venue_name": "Mt Smart Stadium",
+    "venue_location": "Auckland, New Zealand",
+    "date": "11/02/2019 (mm/dd/yyyy)"
+  },
+  {
+    "venue_name": "Estadio Nacional",
+    "venue_location": "Estadio Nacional, Chile",
+    "date": "04/15/2020 (mm/dd/yyyy)"
+  },
+  {
+    "venue_name": "Argentine Polo Association",
+    "venue_location": "Bwp, Argentina",
+    "date": "04/18/2020 (mm/dd/yyyy)"
+  },
+  {
+    "venue_name": "Arena do Grêmio",
+    "venue_location": "Porto Alegre, Brazil",
+    "date": "04/21/2020 (mm/dd/yyyy)"
+  }
+]
+
+
+>>>>>>>>>> movie-this [huigudtrs] >>>>>>>>>> run @ Mon, 07 Oct 2019 21:52:19 GMT
+[ok] OMDb API: nothing found for [huigudtrs]
+
+
+>>>>>>>>>> spotify-this-song [continental pelican] >>>>>>>>>> run @ Mon, 07 Oct 2019 21:53:23 GMT
+[ok] Spotify API: nothing found for [continental pelican]

@@ -5,8 +5,7 @@
   "main": "liri.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "liri": "node ./liri.js",
-    "async": "node ./asynctext.js"
+    "liri": "node ./liri.js"
   },
   "keywords": [],
   "author": "",

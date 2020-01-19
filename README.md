@@ -4,26 +4,38 @@ LIRI Bot is a node cli tool to search for things of interest (movies, songs, con
 
 The purpose of this exercise was to practice recursion, become familiar with node.js and useful pacakges like axiom, file system and inquirer. Another key learning was on working effectively within a development environment using .env files
 
+## Features
 
+- Single page application
+- Responsive
+- Create and move burgers from "Delivered" to "Eaten" sections
+- New burgers are also added to a "Quick Order" list
+- MySQL database for data storage
 
-## Project Structure
+## Getting Started
 
-The main script (liri.js) exists in the root of the project.
-Do not delete (assets > random.txt)
-(assets > log.txt) will be generated when (liri.js) is run
+Begin by cloning the [LIRI_Bot](https://github.com/alex0n0/LIRI_Bot) repository and install dependencies:
 
-
-
-## Instructions
-
-**Screenshots on user inputs are provided in (assets) folder**
-
-The first step is ensure Node.js is installed on your machine. Then install/update node modules and create a .env file where you are to add your API keys.
-
-Go to the root of the project folder and enter the following command/s in the terminal to run LIRI Bot:
-
+```terminal
+git clone https://github.com/alex0n0/eat-da-burger.git
+npm install
 ```
-npm run liri OR node liri
+
+Create a **.env** file and add your database credentials:
+
+```javascript
+SPOTIFY_ID=your-spotify-id
+SPOTIFY_SECRET=your-spotify-secret
+OMDB_KEY=your-omdb-key
+BANDS_IN_TOWN_KEY=your-bands-in-town-key
+```
+
+Run the application to see it in action:
+
+```terminal
+npm run liri
+NOTE: Do not delete (assets > random.txt)
+NOTE: (assets > log.txt) will be generated when (liri.js) is run
 ```
 
 ![Image - Prompts](./assets/screenshots/step2_choose.png)
@@ -38,14 +50,18 @@ Results will be displayed in the terminal and also appended to log.txt which wil
 
 ![Image - Results](./assets/screenshots/step4_result.png)
 
+## Built With
 
-## Deployed Version
+Node.js
 
-Deployed version does not exist. You will need to clone this repo and run (liri.js) using node.js
+Node Packages
 
+- Axios
+- Filesystem
+- Inquirer
+- Node-spotify-api
+- Dotenv
 
+## License
 
-### Technologies Used
-
-JavaScrpt. Node.js and Node Modules (axios, node-spotify-api, inquirer, fs)
-
+This project is licensed under the terms of the [MIT](https://github.com/alex0n0/LIRI_Bot/blob/master/LICENSE) license.
