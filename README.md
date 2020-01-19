@@ -24,10 +24,10 @@ npm install
 Create a **.env** file and add your database credentials:
 
 ```javascript
-SPOTIFY_ID=your-spotify-id
-SPOTIFY_SECRET=your-spotify-secret
-OMDB_KEY=your-omdb-key
-BANDS_IN_TOWN_KEY=your-bands-in-town-key
+SPOTIFY_ID=your_spotify_id
+SPOTIFY_SECRET=your_spotify_secret
+OMDB_KEY=your_omdb_key
+BANDS_IN_TOWN_KEY=your_bands_in_town_key
 ```
 
 Run the application to see it in action:
