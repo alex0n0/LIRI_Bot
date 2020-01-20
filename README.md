@@ -1,16 +1,14 @@
 # LIRI Bot
 
-LIRI Bot is a node cli tool to search for things of interest (movies, songs, concerts) and allows user input to determine which APIs to refer call.
+LIRI Bot is a Node CLI application that allows you to search for things of interest (movies, songs, concerts) and accepts user input to determine which APIs to call.
 
 The purpose of this exercise was to practice recursion, become familiar with node.js and useful pacakges like axiom, file system and inquirer. Another key learning was on working effectively within a development environment using .env files
 
 ## Features
 
-- Single page application
-- Responsive
-- Create and move burgers from "Delivered" to "Eaten" sections
-- New burgers are also added to a "Quick Order" list
-- MySQL database for data storage
+- CLI application
+- Recursive functions
+- Printing search results to a file
 
 ## Getting Started
 
