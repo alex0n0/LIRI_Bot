@@ -17,7 +17,7 @@ The purpose of this exercise was to practice recursion, become familiar with nod
 Begin by cloning the [LIRI_Bot](https://github.com/alex0n0/LIRI_Bot) repository and install dependencies:
 
 ```terminal
-git clone https://github.com/alex0n0/eat-da-burger.git
+git clone https://github.com/alex0n0/LIRI_Bot.git
 npm install
 ```
 
